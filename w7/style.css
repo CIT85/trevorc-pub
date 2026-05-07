@@ -12,3 +12,26 @@
     font-size: 3rem;
     text-shadow: 2px 2px 6px rgb(0,0,0,0.8);
 }
+
+.attendance-card {
+    background-image:linear-gradient(rgba(46, 28, 0, 0.26), rgba(255, 255, 255, 0.308)), url(./images/texture-new.jpg);
+    background-size: cover;
+    background-position: center center;
+    max-width: 500px;
+    margin: 4rem auto;
+    border-left: 10px solid orange;
+    padding: 40px;
+}
+
+.attendance-card h2 {
+    color: #e1ff3a;
+    text-shadow: 2px 2px 4px rgba(0, 0, 0, 0.459);
+}
+.attendance-card ul {
+    color: #e1ff3a;
+    text-shadow: 2px 2px 4px rgba(0, 0, 0, 0.459);
+}
+.attendance-card p {
+    color: #e1ff3a;
+    text-shadow: 2px 2px 4px rgba(0, 0, 0, 0.459);
+}
